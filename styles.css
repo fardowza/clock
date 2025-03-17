@@ -1,0 +1,12 @@
+body {
+    display: flex;
+    align-items: center;
+    background-color: black;
+    color: white;
+    font-family: Arial,
+}
+
+#clock-container {
+    font-size: 60px;
+    font-weight: bold;
+}
